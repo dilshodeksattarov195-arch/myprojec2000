@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseeync",
+        "uuid": 8680000,
+        "checksum": "ivzp08"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
